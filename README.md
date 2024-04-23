@@ -16,7 +16,7 @@ en-us
 - 👋 Hi, I’m @Tomzhao1016(Tom_zhao)
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning PHP and C++
-- 📫 My mail:Tom_zhao@tomzhao1016.top
+- 📫 My e-mail:Tom_zhao@tomzhao1016.top
 
 <!---
 Tomzhao1016/Tomzhao1016 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
